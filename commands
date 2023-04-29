@@ -1,3 +1,8 @@
+git brench -M main 
+git push -u origin main
+
+
+
 git restore . - восстанавливает изменения до записи изменений в индекс(запись красным цветом)
 git restore --staged восстанавливает индекс(делает запись красной). Дальше можно просто "git restore ."
 
